@@ -17,3 +17,5 @@
     * ***Public*** или ***Private***
     
 5. Нажать кнопку "**Create repository**"
+
+---
