@@ -8,9 +8,9 @@ LICENSE: [MIT](./license.md)
 
 ### Содержание:
 1. [Подготовка](./preparation.md)
-2. [Создание репозитория](./repository)
-3. [Базовые операции](./operations)
-4. [Рекомендации](./recommendations)
+2. [Создание репозитория](./repository.md)
+3. [Базовые операции](./operations.md)
+4. [Рекомендации](./recommendations.md)
 
 ---
 
