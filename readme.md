@@ -1,6 +1,6 @@
 # Инструкция по работе с GIT
 
-LICENSE: [MIT](./md/license.md)
+LICENSE: [MIT](./license.md)
 
 ![git-logo](./img/git-logo.png)
 
@@ -8,7 +8,7 @@ LICENSE: [MIT](./md/license.md)
 
 ### Содержание:
 1. ???
-2. [git add](./md/add.md)
+2. [git add](./add.md)
 
 ---
 
